@@ -129,6 +129,8 @@ async function main() {
     await tap(`name == "${shopper.state}" AND visible == 1`, 10_000);
     await pause(600);
     await type(`type == "XCUIElementTypeTextField" AND label == "ZIP code"`, shopper.zip);
+    await driver.execute("mobile: tap", { x: 196, y: 120 }).catch(() => {});
+    await pause(600);
 
     step = "Fill payment";
     await type(`type == "XCUIElementTypeTextField" AND label == "Card number"`, shopper.card);
