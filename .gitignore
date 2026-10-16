@@ -39,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env.local
+.tmp
+
+# playwright
+/test-results
+/playwright-report
+
+# capacitor / xcode
+/ios/build
+/ios/App/App/public
+/ios/App/App/capacitor.config.json
+/ios/App/App.xcodeproj/xcuserdata
+/ios/App/App.xcodeproj/project.xcworkspace/xcuserdata
+/ios/App/App/App.xcodeproj/xcuserdata
+/screencasts
+
+!.env.example

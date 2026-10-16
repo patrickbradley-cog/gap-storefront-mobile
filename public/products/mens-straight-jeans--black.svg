@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1efeb"/><stop offset="1" stop-color="#e6e2da"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <ellipse cx="300" cy="720" rx="190" ry="22" fill="#000" opacity="0.06"/>
+  
+    <path d="M205 140 L395 140 L405 300 L390 700 L315 700 L300 380 L285 700 L210 700 L195 300 Z" fill="#262629"/>
+    <rect x="205" y="140" width="190" height="30" fill="#000003"/>
+    <path d="M300 175 L300 380" stroke="#000000" stroke-width="4"/>
+    <circle cx="300" cy="158" r="6" fill="#c9a24a"/>
+    <path d="M215 185 Q260 185 262 250" stroke="#d6a75c" stroke-width="3" fill="none" stroke-dasharray="6 6"/>
+    <path d="M385 185 Q340 185 338 250" stroke="#d6a75c" stroke-width="3" fill="none" stroke-dasharray="6 6"/>
+    <path d="M212 300 L285 700" stroke="#d6a75c" stroke-width="3" stroke-dasharray="7 7" fill="none"/>
+    <path d="M388 300 L315 700" stroke="#d6a75c" stroke-width="3" stroke-dasharray="7 7" fill="none"/>
+  
+  <text x="300" y="770" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#9a958c">GAP DEMO</text>
+</svg>

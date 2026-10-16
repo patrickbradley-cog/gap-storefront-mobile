@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1efeb"/><stop offset="1" stop-color="#e6e2da"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <ellipse cx="300" cy="720" rx="190" ry="22" fill="#000" opacity="0.06"/>
+  
+    <path d="M215 220 L385 220 L460 690 L140 690 Z" fill="#d9c9a9"/>
+    <rect x="215" y="220" width="170" height="26" fill="#b3a383"/>
+    <path d="M250 246 L215 690" stroke="#c5b595" stroke-width="3"/>
+    <path d="M350 246 L385 690" stroke="#c5b595" stroke-width="3"/>
+  <g fill="none" stroke="#c9c4ba" stroke-width="3">
+    <path d="M215 220 L385 220 L460 690 L140 690 Z" />
+    <rect x="215" y="220" width="170" height="26" />
+    <path d="M250 246 L215 690" stroke="#c5b595" stroke-width="3"/>
+    <path d="M350 246 L385 690" stroke="#c5b595" stroke-width="3"/></g>
+  <text x="300" y="770" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#9a958c">GAP DEMO</text>
+</svg>

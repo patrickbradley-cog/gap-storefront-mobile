@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1efeb"/><stop offset="1" stop-color="#e6e2da"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <ellipse cx="300" cy="720" rx="190" ry="22" fill="#000" opacity="0.06"/>
+  
+    <path d="M195 175 L270 150 L300 185 L330 150 L405 175 L485 245 L430 305 L400 280 L400 660 L200 660 L200 280 L170 305 L115 245 Z" fill="#f6f5f2"/>
+    <path d="M270 150 L300 215 L330 150" fill="none" stroke="#aaa9a6" stroke-width="6"/>
+    <line x1="300" y1="215" x2="300" y2="660" stroke="#c8c7c4" stroke-width="4"/>
+    <circle cx="300" cy="280" r="5" fill="#908f8c"/><circle cx="300" cy="340" r="5" fill="#908f8c"/><circle cx="300" cy="400" r="5" fill="#908f8c"/><circle cx="300" cy="460" r="5" fill="#908f8c"/><circle cx="300" cy="520" r="5" fill="#908f8c"/><circle cx="300" cy="580" r="5" fill="#908f8c"/>
+    <rect x="235" y="280" width="50" height="55" rx="4" fill="none" stroke="#c3c2bf" stroke-width="4"/>
+    <rect x="315" y="280" width="50" height="55" rx="4" fill="none" stroke="#c3c2bf" stroke-width="4"/>
+  <g fill="none" stroke="#c9c4ba" stroke-width="3">
+    <path d="M195 175 L270 150 L300 185 L330 150 L405 175 L485 245 L430 305 L400 280 L400 660 L200 660 L200 280 L170 305 L115 245 Z" />
+    <path d="M270 150 L300 215 L330 150"  stroke="#aaa9a6" stroke-width="6"/>
+    <line x1="300" y1="215" x2="300" y2="660" stroke="#c8c7c4" stroke-width="4"/>
+    <circle cx="300" cy="280" r="5" /><circle cx="300" cy="340" r="5" /><circle cx="300" cy="400" r="5" /><circle cx="300" cy="460" r="5" /><circle cx="300" cy="520" r="5" /><circle cx="300" cy="580" r="5" />
+    <rect x="235" y="280" width="50" height="55" rx="4"  stroke="#c3c2bf" stroke-width="4"/>
+    <rect x="315" y="280" width="50" height="55" rx="4"  stroke="#c3c2bf" stroke-width="4"/></g>
+  <text x="300" y="770" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#9a958c">GAP DEMO</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1efeb"/><stop offset="1" stop-color="#e6e2da"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <ellipse cx="300" cy="720" rx="190" ry="22" fill="#000" opacity="0.06"/>
+  
+    <path d="M190 185 L300 150 L410 185 L490 260 L440 320 L400 295 L400 660 L200 660 L200 295 L160 320 L110 260 Z" fill="#8d9c86"/>
+    <path d="M255 165 Q300 205 345 165 Q300 230 255 165 Z" fill="#5f6e58"/>
+    <rect x="200" y="625" width="200" height="35" fill="#6e7d67"/>
+    <line x1="215" y1="625" x2="215" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="237" y1="625" x2="237" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="259" y1="625" x2="259" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="281" y1="625" x2="281" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="303" y1="625" x2="303" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="325" y1="625" x2="325" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="347" y1="625" x2="347" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="369" y1="625" x2="369" y2="660" stroke="#4d5c46" stroke-width="3"/><line x1="391" y1="625" x2="391" y2="660" stroke="#4d5c46" stroke-width="3"/>
+  
+  <text x="300" y="770" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#9a958c">GAP DEMO</text>
+</svg>

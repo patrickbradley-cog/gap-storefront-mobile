@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" fill="#e6dbe3"/>
+  <g transform="translate(0,-60) scale(1,0.9)">
+    <path d="M215 170 L265 150 Q300 200 335 150 L385 170 L415 240 L380 260 L370 360 L450 690 L150 690 L230 360 L220 260 L185 240 Z" fill="#b7a4cf"/>
+    <path d="M215 170 Q185 180 190 230 Q215 250 240 230 Z" fill="#9885b0"/>
+    <path d="M385 170 Q415 180 410 230 Q385 250 360 230 Z" fill="#9885b0"/>
+    <line x1="230" y1="360" x2="370" y2="360" stroke="#84719c" stroke-width="4"/></g>
+</svg>
