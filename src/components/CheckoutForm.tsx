@@ -128,7 +128,7 @@ export function CheckoutForm() {
 
   return (
     <form onSubmit={onSubmit} className="mx-auto max-w-6xl md:grid md:grid-cols-[1fr_380px] md:gap-12 md:px-6 md:pt-8" noValidate>
-      <div className="px-4 pb-[calc(env(safe-area-inset-bottom)+7rem)] md:px-0 md:pb-12">
+      <div className="px-4 md:px-0 md:pb-12">
         <h1 className="hidden text-2xl font-semibold md:block">Checkout</h1>
 
         <section className="pt-4">
