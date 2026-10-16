@@ -26,7 +26,7 @@ test("full checkout flow: home → product → bag → checkout → place order"
   });
 
   await test.step("Category → product page", async () => {
-    await page.getByTestId("category-tile").filter({ hasText: "Men" }).first().click();
+    await page.getByTestId("category-tile").filter({ hasText: /\bMen\b/ }).first().click();
     await expect(page.getByTestId("result-count")).toBeVisible();
     await snap(page, "02-category");
     await page.getByTestId("product-card").first().click();
